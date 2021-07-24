@@ -1,6 +1,7 @@
 # ColorsAPI
 Steps to run ColorsAPI
 - Open project in Visual Studio
+- Change connection string in appsettings.json
 - Open Package Manager Console and run below commands
 	- Add-Migration ColorsMigration
 	- Update-Database
