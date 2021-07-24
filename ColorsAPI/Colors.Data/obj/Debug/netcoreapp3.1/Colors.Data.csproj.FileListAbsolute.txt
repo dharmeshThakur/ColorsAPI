@@ -1,0 +1,12 @@
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\bin\Debug\netcoreapp3.1\Colors.Data.deps.json
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\bin\Debug\netcoreapp3.1\Colors.Data.runtimeconfig.json
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\bin\Debug\netcoreapp3.1\Colors.Data.runtimeconfig.dev.json
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\bin\Debug\netcoreapp3.1\Colors.Data.dll
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\bin\Debug\netcoreapp3.1\Colors.Data.pdb
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\obj\Debug\netcoreapp3.1\Colors.Data.csprojAssemblyReference.cache
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\obj\Debug\netcoreapp3.1\Colors.Data.AssemblyInfoInputs.cache
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\obj\Debug\netcoreapp3.1\Colors.Data.AssemblyInfo.cs
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\obj\Debug\netcoreapp3.1\Colors.Data.csproj.CoreCompileInputs.cache
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\obj\Debug\netcoreapp3.1\Colors.Data.dll
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\obj\Debug\netcoreapp3.1\Colors.Data.pdb
+D:\Dharmesh\Projects\ColorsAPI\Colors.Data\obj\Debug\netcoreapp3.1\Colors.Data.genruntimeconfig.cache
